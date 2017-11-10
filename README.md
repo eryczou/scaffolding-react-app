@@ -89,7 +89,7 @@ Following are the instructions for how to setup the react application using Face
     </link>
 
 <br/>
-这个时候在程序中就可以用semantic-ui-react的组件了
+这个时候在程序中就可以用semantic-ui-react的组件了，这个例子里面专门设置了PORT=3009在.env文件中，为了防止本地有端口冲突
 <br/>
 <br/>
 
